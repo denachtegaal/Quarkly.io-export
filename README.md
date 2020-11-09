@@ -17,6 +17,11 @@
          alt="Create React App version" />
   </a>
   
+  <a href="https://github.com/sintel/Quarkly.io-export/pulls">
+    <img src="https://badgen.net/github/prs/sintel/Quarkly.io-export" alt="Pull Request Amount">
+  </a>
+  <img src="https://badgen.net/github/last-commit/sintel/Quarkly.io-export" alt="Last commit date" />
+            
   <a href="./LICENSE">
     <img src="https://badgen.net/badge/license/MIT/blue"
          alt="License">
